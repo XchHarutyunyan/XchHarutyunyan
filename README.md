@@ -15,6 +15,8 @@ Regular communication is very important to me, so let's keep in touch!
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+---
+
 ### :mailbox: How to contact me:
 
   <div id="badges">
