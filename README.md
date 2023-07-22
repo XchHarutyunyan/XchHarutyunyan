@@ -15,7 +15,7 @@ Regular communication is very important to me, so let's keep in touch!
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### 🤝 Social media:
+### :mailbox: How to contact me:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/xch-harutyunyan" target="_blank">
