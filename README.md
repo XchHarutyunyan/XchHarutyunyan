@@ -7,7 +7,7 @@
 
 I am a web/mobile full-stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-I have experience with HTML, Css, Sass/Scss, BOOTSTRAP, Tailwind Css, JavaScript, TypeScript, jQuery, PUG, React JS, React Native, Redux, Vue JS, Nuxt JS, Vite JS, Vue Native, Php/Laravel , GraphQL, MySql, Firebase, Git, bitbucket, npm, Yarn, Figma, Adobe XD, SEO.
+I have experience with HTML, Css, Sass/Scss, BOOTSTRAP, Tailwind Css, JavaScript, TypeScript, jQuery, PUG, React JS, React Native, Redux, Vue JS, Nuxt JS, Vite JS, Php/Laravel , GraphQL, MySql, Firebase, Git, bitbucket, npm, Yarn, Figma, Adobe XD, SEO.
 I will manage your assignment from start to finish.
 Regular communication is very important to me, so let's keep in touch!
 
