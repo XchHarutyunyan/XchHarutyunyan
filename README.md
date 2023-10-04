@@ -11,10 +11,6 @@ I have experience with HTML, Css, Sass/Scss, BOOTSTRAP, Tailwind Css, JavaScript
 I will manage your assignment from start to finish.
 Regular communication is very important to me, so let's keep in touch!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 ### :mailbox: How to contact me:
