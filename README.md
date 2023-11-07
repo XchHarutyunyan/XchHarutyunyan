@@ -5,11 +5,17 @@
 
 ### :man_technologist: About me:
 
-I am a web/mobile developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
-My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-I have experience with HTML, Css, Sass/Scss, BOOTSTRAP, Tailwind Css, JavaScript, TypeScript, jQuery, PUG, React JS, React Native, Redux, Vue JS, Nuxt JS, Vite JS, Php/Laravel , GraphQL, MySql, Firebase, Git, bitbucket, npm, Yarn, Figma, Adobe XD, SEO.
-I will manage your assignment from start to finish.
-Regular communication is very important to me, so let's keep in touch!
+A skilled Web and Mobile Developer/Team Lead with a track record
+in creating cross-platform, dynamic applications, websites.
+Having worked in both Front-end and Back-end development. Skilled
+in a variety of programming languages and frameworks, I can create
+fluid, aesthetically pleasing web and mobile applications that adapt to
+the changing needs of users. My ability to work well in interdisciplinary
+teams guarantees that projects are completed successfully, and my
+meticulous attention to detail produces great user experiences.
+In order to deliver innovative solutions that successfully engage users
+and empower businesses, I leverage my knowledge of emerging
+technologies and trends.
 
 ---
 
